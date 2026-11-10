@@ -1,1 +1,0 @@
-# Notarte_StudentInfoFormatter.
